@@ -4,7 +4,7 @@
   "description": "A default backend (404 page) for nginx-ingress in Kubernetes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jshimko/launchdock.git"
+    "url": "https://github.com/jshimko/default-backend.git"
   },
   "main": "server.js",
   "scripts": {
